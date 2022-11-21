@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mustafa-Haidari
-- 👀 I’m interested in full-stack web development and my favorite is mern stack
-- 🌱 I’m currently working as a software developer in php
+- 👀 I’m interested in full-stack web development
+- 🌱 I’m the founder and full-stack deverloper of kaakah.com, a web app helping people send mobile topups internationally
 - 📫 You can reach me via my email: mhaidarpoor@gmail.com
 
 <!---
