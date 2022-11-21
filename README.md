@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mustafa-Haidari
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m the founder and full-stack deverloper of kaakah.com, a web app helping people send mobile topups internationally
+- 🌱 I’m the founder and full-stack deverloper of https://kaakah.com, a web app helping people send mobile topups internationally
 - 📫 You can reach me via my email: mhaidarpoor@gmail.com
 
 <!---
